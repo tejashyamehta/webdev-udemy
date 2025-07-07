@@ -9,7 +9,8 @@ Below are screenshots and examples from selected programs and setups.
 ## Repository Contents
 
 1. **Blog API Project**
-   
+   ![image](https://github.com/user-attachments/assets/95dc9b13-7c5c-4fa4-8b12-0a33623de959)
+
 3. **Drum Kit Program**
    ![image](https://github.com/user-attachments/assets/79333e61-1ea8-4808-b4bd-34b124a1fca2)
 
