@@ -8,15 +8,19 @@ Below are screenshots and examples from selected programs and setups.
 
 ## Repository Contents
 
-1. **Blog API Project**
+1. **Blog API Project** [Project Files](https://github.com/tejashyamehta/webdev-udemy/tree/main/Blog%20API%20Project)
    ![image](https://github.com/user-attachments/assets/95dc9b13-7c5c-4fa4-8b12-0a33623de959)
 
-3. **Drum Kit Program**
+3. **Drum Kit Program** [Project Files](https://github.com/tejashyamehta/webdev-udemy/tree/main/Drum%20Kit%20Program)
    ![image](https://github.com/user-attachments/assets/79333e61-1ea8-4808-b4bd-34b124a1fca2)
 
-4. **QR Code Generator**  
-5. **Secrets API App**  
-6. **World Capital Quiz (Postgres)**
+4. **QR Code Generator**  [Project Files](https://github.com/tejashyamehta/webdev-udemy/tree/main/QR%20Code%20Generator)
+5. **Secrets API App** [Project Files](https://github.com/tejashyamehta/webdev-udemy/tree/main/Secrets%20API%20App)
+   
+   This is a simple Secrets App that interacts with the Secrets API by London App Brewery. The app fetches and handles secrets data using REST API calls, demonstrating the use of HTTP requests, authentication, and API handling.
+
+
+7. **World Capital Quiz (Postgres)** [Project Files](https://github.com/tejashyamehta/webdev-udemy/tree/main/World%20Capital%20Quiz%20(Postgres))
    ![image](https://github.com/user-attachments/assets/a6b0252a-cc9c-4ed5-9ed1-789dc87176a5)
 
 
